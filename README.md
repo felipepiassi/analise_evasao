@@ -1,6 +1,6 @@
 analise_evasao_escolar/
   ├── analise_evasao.py
-  ├── student_dataset_clean_with_risk.csv
+  ├── conjunto_de_dados_do_aluno_com_risco.csv
   ├── relatorios/ (opcional, com PDF)
 
 
